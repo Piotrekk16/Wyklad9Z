@@ -16,12 +16,12 @@ namespace ConsoleApplication14
 
         public void WystapilBlad()
         {
-            if (PrzyBlendziePobierania != null)
-                PrzyBlendziePobierania("Wystapił błąd");
+            if (PrzyBledziePobierania != null)
+                PrzyBledziePobierania("Wystapił błąd");
         }
 
         public delegate void BladPobierniaDelegata(string wiadomosc);
-        public event BladPobierniaDelegata PrzyBlendziePobierania;
+        public event BladPobierniaDelegata PrzyBledziePobierania;
 
         public delegate void SkonczonePobieranieDelegata();
         public event SkonczonePobieranieDelegata SkonczonePobieranie;

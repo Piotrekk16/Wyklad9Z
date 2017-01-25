@@ -4,3 +4,6 @@ c:\users\piotrek_uwm\documents\visual studio 2013\Projects\ConsoleApplication14\
 c:\users\piotrek_uwm\documents\visual studio 2013\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
 c:\users\piotrek_uwm\documents\visual studio 2013\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
 c:\users\piotrek_uwm\documents\visual studio 2013\Projects\ConsoleApplication14\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+C:\Users\Piotrek\Documents\Wyklad9Z-master\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+C:\Users\Piotrek\Documents\Wyklad9Z-master\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+C:\Users\Piotrek\Documents\Wyklad9Z-master\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
